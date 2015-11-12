@@ -1,0 +1,646 @@
+#Acne and Rosacea
+    acne-closed-comedo
+    acne-cystic
+    acne-excoriated
+    acne-infantile
+    acne-open-comedo
+    acne-pustular
+    acne-scar
+    gram-negative-folliculitis
+    hidradenitis-suppurativa
+    hyperhidrosis
+    milia
+    perioral-dermatitis
+    rosacea
+    rosacea-nose
+    rosacea-steroid
+#Actinic Keratosis, Basal Cell Carcinoma and other Malignant Lesions
+    Actinic Cheilitis Squamous Cell Lip
+    Actinic Keratosis 5 FU
+    Actinic keratosis Arm
+    Actinic Keratosis Ear
+    Actinic Keratosis Face
+    Actinic Keratosis Hand
+    Actinic Keratosis Horn
+    Actinic Keratosis Lesion
+    Actinic Keratosis Nose
+    Actinic Keratosis Pigmented
+    Actinic Keratosis Trunk
+    Arsenical Keratoses
+    Basal Cell Carcinoma Aldara
+    Basal Cell Carcinoma Arm
+    Basal Cell Carcinoma Ear
+    Basal Cell Carcinoma Face
+    Basal Cell Carcinoma Histology
+    Basal Cell Carcinoma Leg
+    Basal Cell Carcinoma Lesion
+    Basal Cell Carcinoma Lid
+    Basal Cell Carcinoma Lip
+    Basal Cell Carcinoma Nose
+    Basal Cell Carcinoma Pigmented
+    Basal Cell Carcinoma Scalp
+    Basal Cell Carcinoma Sclerosing
+    Basal Cell Carcinoma Superficial
+    Basal Cell Carcinoma Surgery
+    Basal Cell Carcinoma Trunk Ext
+    Basal Cell Carcinoma Vulva
+    Basal Cell Nevus Syndrome
+    Bowen Disease
+    CTCL
+    Cutaneous Horn
+    Dermatofibrosarcoma
+    Epidermodysplasia Verruciformis
+    Erythroplasia Queyrat
+    Extramammary Paget Disease
+    Follicular Mucinosis
+    Granulation Tissue
+    Leukemia
+    Leukoplakia
+    Lymphocytoma Cutis
+    Lymphoma
+    Lymphomatoid Papulosis
+    Lymphosarcoma
+    Merkel Cell Cancer
+    Metastasis
+    Paget Disease Breast
+    Squamous Cell Carcinoma Ear
+    Squamous Cell Carcinoma Face
+    Squamous Cell Carcinoma Hand Arm
+    Squamous Cell Carcinoma Histology
+    Squamous Cell Carcinoma Leg
+    Squamous Cell Carcinoma Lesion
+    Squamous Cell Carcinoma Lip
+    Squamous Cell Carcinoma Nose
+    Squamous Cell Carcinoma Scalp
+    Squamous Cell Carcinoma Trunk
+    Squamous Cell Carcinoma Vulva
+    Verrucous Carcinoma
+#Atopic Dermatitis
+    05atopic
+    05atopicfossa
+    05atopicfeet
+    05atopichand
+    05ichthyosis
+    03ichthyosis
+    05atopicgeneralized
+    05atopicderm
+    Ichthosis
+    05keratosisPilaris
+    05PityriasisAlbal
+#Bullous Disease Photos
+    benign-familial-chronic-pemphigus
+    bullous-pemphigoid
+    dariers-disease
+    dermatitis-herpetiformis
+    diabetic-bullae
+    epidermolysis-bullosa
+    grovers-disease
+    herpes-gestationis
+    localized-pemphigoid
+    pemphigus
+    pemphigus-foliaceous
+#Cellulitis, Impetigo and other Bacterial Infections
+    atypical-mycobacterium
+    Balanitis-Bacterial
+    Cellulitis
+    Erysipelas
+    Folliculitis
+    Furuncles-Carbuncles
+    impetigo
+    Leprosy
+    Lupus-vulgaris
+    meningococcemia
+    otitis-externa
+    pitted-keratolysis
+    Pseudomonas-Cellulitis
+    Pseudomonas-Folliculitis
+    Staphylococcal-Folliculitis
+    Streptococci-Anal-Penis
+    Sycosis-Barbae
+#Eczema Photos
+    Acid Burn
+    Chapped Fissured Feet
+    Desquamation
+    Diaper Dermatitis
+    Dyshidrosis
+    Eczema Acute
+    Eczema Anal
+    Eczema Areola
+    Eczema Arms
+    Eczema Asteatotic
+    Eczema Axillae
+    Eczema Chronic
+    Eczema Ears
+    Eczema Face
+    Eczema Fingertips
+    Eczema Foot
+    Eczema Hand
+    Eczema Histology
+    Eczema Hyperkeratotic
+    Eczema Impetiginized
+    Eczema Leg
+    Eczema Lids
+    Eczema Nummular
+    Eczema Penis
+    Eczema Scrotum
+    Eczema Subacute
+    Eczema Trunk Generalized
+    Eczema Vulva
+    Emersion Foot
+    Factitial Dermatitis
+    Fiberglass Dermatitis
+    Fissure
+    Heels Dry Cracked
+    Hyperkeratosis
+    Id Reaction
+    Iododerma
+    Keratolysis Exfoliativa
+    Knuckle Pads
+    Lichen Simplex Chronicus
+    Maceration
+    Malum Ulcer
+    Milroy Disease
+    Neurotic Excoriations
+    Notalgia Paraesthetica
+    Parasitosis Psychogenic
+    Phlebitis Superficial
+    Pompholyx
+    Prurigo Nodularis
+    Stasis Dermatitis and Ulcers
+#Exanthems and Drug Eruptions
+    Acute Generalized Exanthematous Pustulosis
+    Cytomegalovirus
+    Drug Eruption Photo Sensitivity
+    Drug Eruptions
+    Drug Lichenoid Eruption
+    Enterovirus
+    Erythema Infectiosum
+    Erythema Neonatorum
+    Exfoliative Dermatitis
+    Fixed Drug Eruption
+    Gianotti Crosti
+    Hand Foot Mouth Disease
+    Kawasaki Syndrome
+    Measles
+    Minocycline Pigmentation
+    Roseola Infantum
+    Scarlet Fever
+    Unilateral Laterothoracic Exanthem
+    Viral Exanthems
+#Hair Loss Photos, Alopecia and other Hair Diseases
+    Acne Keloidalis
+    Alopecia Areata
+    Anagen effluvium
+    Androgenic Alopecia Men
+    Androgenic Alopecia Women
+    Discoid Lupus
+    Dissecting Cellulitis
+    Folliculitis Decalvans
+    Hirsutism
+    Hot Comb Alopecia
+    Ingrown Eyelash
+    Lichen Planopilaris
+    Monilethrix
+    Pili Annulati
+    Pili Torti
+    Polytrichia
+    Pseudopelade
+    Sheathed Hair
+    Telogen Effluvium
+    Traction Alopecia
+    Trichomycosis
+    Trichorrhexis Nodosa
+    Trichotillomania
+    Tufted folliculitis
+#Herpes, HPV and other STDs Photos
+    AIDS
+    bacterial-vaginosis
+    bowenoid-papulosis
+    chancroid
+    genital-ulcers
+    genital-warts
+    gonorrhea
+    granuloma-inguinale
+    herpes-type-2-primary
+    herpes-type-2-recurrent
+    lymphogranuloma-venereum
+    molluscum-contagiosum
+    pearly-penile-papules
+    syphilis
+    warts-mouth
+#Light Diseases and Disorders of Pigmentation
+    actinic comedones
+    actinic granuloma
+    albinism
+    argyria
+    cafe-au-lait-spots
+    colloid milia
+    erythema ab igne
+    erythema dyschromium perstans
+    erythromelanosis follicularis faciei colli
+    erythropoietic protoporphyria
+    freckles
+    hydroa aestivale
+    hydroa vacciniforme
+    idiopathic guttate hypomelanosis
+    lentigo adults
+    lentigo children
+    melasma
+    milia
+    mongolian spot
+    nevus anemicus
+    phototoxic reactions
+    piebaldism
+    poikiloderma civatte
+    polymorphous light eruption
+    porphyrias
+    postinflammatory hyperpigmentation
+    pseudoporphyria
+    radiation dermatitis
+    sun damaged skin
+    sunburn
+    vitiligo
+    weathering nodules
+#Lupus and other Connective Tissue diseases
+    acrocyanosis
+    atrophoderma
+    calcinosis cutis
+    chilblains perniosis
+    crest syndrome
+    dermatomyositis
+    dupuytren contracture
+    erythromelalgia
+    lupus acute
+    lupus chronic cutaneous
+    lupus neonatal
+    lupus subacute
+    macular atrophy
+    mixed connective tissue disease
+    morphea
+    mucinosis
+    raynaud disease
+    reflex sympathetic dystrophy
+    rheumatoid nodule
+    scleroderma
+    temporal arteritis
+#Melanoma (Skin Cancer), Nevi, and Moles
+    atypical nevi
+    atypical nevi dermoscopy
+    atypical nevi trunk
+    becker nevus
+    blue nevus
+    blue nevus ota
+    congenital nevus
+    halo nevus
+    lentigo maligna
+    malignant melanoma
+    melanocytic nevi
+    melanotic macule
+    mongolian spot
+    nevus repigmented
+    nevus spilus
+    spitz nevus
+#Nail Fungus and other Nail Disease
+    acute paronychia
+    alopecia areata
+    beaus lines
+    biting excoriation
+    blue nails minocycline
+    chemotherapy
+    chronic paronychia
+    clubbing
+    color changes
+    congenital anomalies
+    darier
+    distal splitting hang nail
+    distal subungual onychomycosis
+    dry nails
+    eczema
+    exostosis
+    fissure
+    habit tic deformity
+    hang nail
+    hematoma splinter hem
+    ingrown nail
+    koilonychia
+    leukonychia
+    lichen planus
+    median nail dystrophy
+    mucous cyst
+    nail melanoma
+    normal variations
+    onychogryphosis
+    onycholysis
+    pachyonychia congenita
+    periungual epidermal cyst
+    periungual fibroma
+    periungual warts
+    pigmented bands
+    pincer nails
+    proximal subungual onychomycosis
+    pseudomonas
+    psoriasis
+    ridging beading
+    skin splitting fissure
+    splinter hemorrhage
+    terry nails
+    trauma
+    twenty nail dystrophy
+    white nails
+    white superficial onychomycosis
+    yellow nails
+#Poison Ivy Photos and other Contact Dermatitis
+    allergic contact dermatitis
+    cement dermatitis burns
+    contact airborne
+    contact dermatitis leg ulcers
+    cosmetic fragrance allergy
+    irritant contact dermatitis
+    metal dermatitis
+    natural rubber latex allergy
+    patch testing
+    rhus dermatitis
+    shoe allergy
+    systemically induced allergic dermatitis
+#Psoriasis pictures, Lichen Planus and related diseases    
+    axillary granular parakeratosis
+    erythrokeratodermia variabilis
+    lichen nitidus
+    lichen planus
+    lichen planus drug
+    lichen planus hypertrophic
+    lichen planus oral
+    lichen planus palm soles
+    lichen planus penis
+    lichen planus vaginal
+    lichen sclerosis vulva
+    lichen sclerosus penis
+    lichen sclerosus skin
+    lichen spinulosa
+    lichen striatus
+    palmoplantar keratoderma
+    pityriasis lichenoides
+    pityriasis rosea
+    pityriasis rubra pilaris
+    psoriasis anus
+    psoriasis cellulitis
+    psoriasis chronic plaque
+    psoriasis digits
+    psoriasis erythrodermic
+    psoriasis guttate
+    psoriasis hand
+    psoriasis histology
+    psoriasis hiv
+    psoriasis infants
+    psoriasis inversus
+    psoriasis light sensative
+    psoriasis nails
+    psoriasis palms soles
+    psoriasis penis
+    psoriasis pustular generalized
+    psoriasis scalp
+    psoriasis treatment
+    psoriasis vulva
+    psoriatic arthritis
+    reiter syndrome
+    seborrheic dermatitis
+#Scabies, Lyme Disease and other Infestations and Bites
+    acrodermatitis chronica atrophicans
+    ants
+    biting fleas
+    biting insects
+    cactus granuloma
+    cat bite
+    cat scratch disease
+    caterpillar dermatitis
+    cutaneous larva migrans
+    dermatitis swimming
+    duck itch
+    grain shoveler itch
+    leishmaniasis
+    lyme disease
+    maculae cerulea
+    myiasis
+    pediculosis body
+    pediculosis lids
+    pediculosis pubic
+    pediculosis scalp
+    rocky mountain spotted fever
+    scabies
+    spiders
+    stinging insects
+    ticks
+#Seborrheic Keratoses and other Benign Tumors
+    accessory nipple
+    accessory trachus
+    acquired digital fibrokeratoma
+    atypical fibroxanthoma
+    calcifying epithelioma
+    chondrodermatitis nodularis
+    collagenoma
+    connective tissue nevus
+    cylindroma
+    dermatofibroma
+    dermatosis papulosa nigra
+    eccrine spiradenoma
+    endometriosis
+    epidermal cyst
+    epidermal nevus
+    epidermal nevus inflammatory
+    extraneous digits
+    fibroma
+    fibromatosis progressive
+    follicular keratosis
+    follicular mucinosis
+    granular cell tumor
+    granuloma faciale
+    granuloma hair
+    hydrocystoma
+    intraepidermal epithelioma
+    keloids
+    keratoacanthoma
+    keratosis punctata
+    knuckle pads
+    kyrle disease
+    leiomyomata
+    lichen striatus
+    lymphocytic infiltrate jessner
+    melanoma mimic
+    neurofibromas
+    nevus sebaceous
+    pilar cyst
+    pinkus tumor
+    porokeratosis
+    pseudocyst auricle
+    sebaceous hyperplasia
+    seborrheic keratoses ruff
+    seborrheic keratoses smooth
+    seborrheic keratosis irritated
+    skin tags polyps
+    spiny keratoderma
+    stucco keratoses
+    supernumerary digits
+    syringoma
+    trichoepithelioma
+    trichofolliculoma
+    xanthogranuloma
+#Systemic Disease
+    acanthosis nigricans
+    acrodermatitis enteropathica
+    addison disease
+    amyloidosis
+    bechet
+    birt hogg dube
+    cowden disease
+    cryoglobulinemia
+    degos disease
+    diabetes mellitus
+    elastosis perferans
+    glucagonoma
+    gout
+    granuloma annulare
+    histiocytosis x
+    hypothyroidism
+    klinefelter syndrome
+    leser trelat
+    letterer-siwe
+    lichen amyloidosis
+    lichen myxedematosus
+    lipoid proteinosis (urbach–wiethe disease)
+    meischer granuloma face
+    melkersson rosenthal
+    muir-torre syndrome
+    myxedema
+    necrobiosis lipoidica
+    neurofibromatosis
+    nevoxanthoendothelioma
+    ochronosis
+    osler node
+    panniculitis
+    pellagra
+    pretibia myxedema
+    pseudoxanthoma elasticum
+    relapsing polychondritis
+    rheumatoid nodule
+    sarcoid
+    striae distensae
+    trichoepithelioma
+    tricholemmoma
+    tuberous sclerosis
+    weber christian
+    xanthomas
+#Tinea, Candidiasis, and other Fungal Infections   
+    Actinomycosis
+    Candida Groin
+    Candida Penis
+    Candidiasis Chronic Mucocutaneous
+    Candidiasis Diaper
+    Candidiasis large Skin Folds
+    Candidiasis Mouth
+    Candidiasis Vaginal
+    Coccidiomycosis
+    Confluent Reticulate Papillomatosis
+    Erosio Interdigitalis Blastomycetica
+    Erythrasma
+    Id Reaction
+    Intertrigo
+    kerion
+    Majocchi Granuloma
+    Mycetoma
+    North American Blastomycosis
+    Perlèche
+    Pitted keratolysis
+    Pityrosporum Folliculitis
+    Tinea Beard
+    Tinea Body
+    Tinea Border
+    Tinea Face
+    Tinea Foot Dorsum
+    Tinea Foot Plantar
+    Tinea Foot Webs
+    Tinea Groin
+    Tinea Hand Dorsum
+    Tinea Incognito
+    Tinea Laboratory
+    Tinea Nigra
+    Tinea Palm
+    Tinea Primary Lesion
+    Tinea Scalp
+    Tinea Versicolor
+    Tinea Tonsurans Adult
+#Urticaria (Hives)
+    Angioedema
+    Cholinergic Urticaria
+    Cold Urticaria
+    Dermagraphism
+    Erythema Annulare Centrifugum
+    Mastocytosis
+    Pressure Urticaria
+    PUPPP Pruritic Urticarial Papules and Plaques of Pregnancy
+    Urticaria Acute
+    Urticaria Vasculitis
+#Vascular Tumors    
+    Angiokeratomas
+    Arteriovenous malformation
+    Cherry Angioma
+    Cutis Marmorata Telangiectatica Congenita
+    Hemangioma
+    Hemangioma Infancy
+    Hemangioma Traumatized
+    Kaposi Sarcoma
+    Lymphangioma Circumscriptum
+    Purpura Vomiting
+    Pyogenic Granuloma
+    Spider Angioma
+    Telangiectasias
+    Thrombosed Vein
+    Unilateral Telangiectasia
+    Vascular Anomaly
+    Venous Lake
+    Venous Malformations
+#Vasculitis Photos
+    Atrophy Blanche
+    Erythema Elevatum Diutinum
+    Erythema Multiforme
+    Erythema Nodosum
+    Granuloma Faciale
+    Henoch Schönlein Purpura
+    Interstitial Granulomatous Dermatitis
+    Livido Reticularis
+    Majocchi Purpura Tel
+    Panniculitis
+    Polyarteritis Nodosa
+    Pyoderma Gangrenosum
+    Schamberg Disease
+    Stevens-Johnson Syndrome
+    Sweets Syndrome
+    Toxic Epidermal Necrolysis
+    Vasculitis
+#Warts (Molluscum) and other Viral Infections    
+    Black Heel
+    Corns
+    Eczema Herpeticum
+    Eczema Vaccinatum
+    Hand Foot Mouth
+    Herpes Buttocks
+    Herpes Cutaneous
+    Herpes Immunocompromised
+    Herpes Simplex
+    Herpes Type 1 Primary
+    Herpes Type 1 Recurrent
+    Herpes Zoster
+    Molluscum Contagiosum
+    Monkey Pox
+    Orf
+    Small Pox
+    Varicella
+    Warts
+    Warts Common
+    Warts Cryotherapy
+    Warts Digitate
+    Warts Flat
+    Warts Immunocompromised
+    Warts Oral
+    Warts Periungual
+    Warts Plantar
+    Warts Treatment
