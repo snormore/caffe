@@ -85,7 +85,7 @@ layer {
 }
 layer {
   name: "pool1/norm1"
-  type: "LRN"
+  type: ""LRN""
   bottom: "pool1/3x3_s2"
   top: "pool1/norm1"
   lrn_param {
@@ -159,7 +159,7 @@ layer {
 }
 layer {
   name: "conv2/norm2"
-  type: "LRN"
+  type: ""LRN""
   bottom: "conv2/3x3"
   top: "conv2/norm2"
   lrn_param {

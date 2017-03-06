@@ -1,4 +1,4 @@
-name: "DermNet-VGG-16-layers"
+name: "DermNet-VGG-16-layer"
 layer {
   name: 'data'
   type: 'ImageData'
